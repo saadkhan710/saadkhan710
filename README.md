@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **saadzz.khan710@gmail.com**
 
-- ⚡ Fun fact **Coffee-Driven Development**
+- ⚡ Fun fact **Good Sense of humor**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
