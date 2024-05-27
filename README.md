@@ -1,4 +1,3 @@
-![Header](./downloads/github-header-image.png)
 
 <h1 align="center">Hi 👋, I'm Saad Khan</h1>
 <h3 align="center">A passionate Cloud Engineer!!</h3>
