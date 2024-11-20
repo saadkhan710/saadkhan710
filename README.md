@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Saad Khan</h1>
 <h3 align="center">IT Application Analyst !!</h3>
 
-- 🌱 I’m currently learning **Cloud Computing**
+- 🌱 I’m currently pursuing career in **Data Analyst**
 
 - 📫 How to reach me **saadzz.khan710@gmail.com**
 
